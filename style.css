@@ -1,1 +1,4 @@
-header{background-color: #9DB4EF; color: black;}
+.cabecalho{background-color: #9DB4EF; color: black;}
+.logo{width: 20%; position: relative; top: 50px; left: 150px;}
+.lista-cabecalho{display: flex;}
+.item{font-size: 50px; }
