@@ -1,4 +1,12 @@
 .cabecalho{background-color: #9DB4EF; color: black;}
+
 .logo{width: 20%; position: relative; top: 50px; left: 150px;}
-.lista-cabecalho{display: flex;}
-.item{font-size: 50px; }
+
+.lista-cabecalho{display: flex; position: relative; left: 500px;}
+
+.item{font-size: 40px; margin-left: 60px;}
+
+.grupo-estudo{background-image: linear-gradient(#3562D6, #b3c1e3); 
+    }
+.grupo-imagem{width: 25%; margin: 90px;}
+
