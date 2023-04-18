@@ -1,3 +1,5 @@
+body{font-family: sans-serif; font-family: Cambria;}
+
 .cabecalho{background-color: #9DB4EF; color: black;}
 
 .logo{width: 20%; position: relative; top: 50px; left: 150px;}
@@ -6,7 +8,17 @@
 
 .item{font-size: 40px; margin-left: 60px;}
 
-.grupo-estudo{background-image: linear-gradient(#3562D6, #b3c1e3); 
-    }
+.grupo-estudo{background-image: linear-gradient(#3562D6, #c8cfe1);}
+
 .grupo-imagem{width: 25%; margin: 90px;}
+
+.titulo-cursista{font-size: 30px; font-family: Verdana; color: red; text-align: center;}
+
+.todos-cursistas{display: grid; grid-template-columns: 20% 20% 20% 20% 20%;}
+
+.secao-cursista{background-color:#9DB4EF; }
+
+.cursitas{margin: 60px;}
+
+.imagem-cursita{width: 130px;}
 
